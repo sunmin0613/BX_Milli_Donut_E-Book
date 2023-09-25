@@ -1,6 +1,7 @@
 body {
 	overflow: hidden;
-	background: url(../img/bg.jpg) no-repeat;
+	background: #f6e1b4 url(../img/bg.jpg) no-repeat center top;
+	background-size: 100%;
 	margin: 0;
 	padding: 0;
 }
